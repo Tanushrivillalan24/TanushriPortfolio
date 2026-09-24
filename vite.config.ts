@@ -83,7 +83,7 @@ function aistudioMediaPlugin(): Plugin {
 export default defineConfig(() => {
   return {
     // Vercel deployment
-    base: '/TanushriPortfolio/',,
+    base: '/TanushriPortfolio/',
 
     plugins: [
       react(),
