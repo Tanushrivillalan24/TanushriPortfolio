@@ -82,8 +82,8 @@ function aistudioMediaPlugin(): Plugin {
 
 export default defineConfig(() => {
   return {
-    // GitHub Pages repository path
-    base: '/TanushriPortfolio/',
+    // Vercel deployment
+    base: '/',
 
     plugins: [
       react(),
